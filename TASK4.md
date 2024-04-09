@@ -1,1 +1,1 @@
-
+Robotic arm project gives a hands on experience to work on mechatronics in which I am really interested in and I also really got to learn a lot while doing the recruitment task for eg learnig new algorithms used in a robotic arm , basics of bash , how to change your student search dp etc. Hence I am really enthusiastic about getting to know about it through the project.
