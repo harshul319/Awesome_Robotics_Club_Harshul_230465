@@ -3,6 +3,8 @@ Summer robotics task-
 
 Robotic Arm-
 
+robo(xi,yi,zi) function takes the x,y,z axis of the object as an input and sends it to the fabrik function to give theta rotated by the joints as output
+
 Base configeration of robot is set so that the position of joints are as follows-
 
 base joint (can rotate about z)-(0,0,0)
@@ -12,6 +14,8 @@ joint0 (can rotate about y)-(0,0,23)
 joint1 (can rotate about y)-(15,0,23)
 
 joint2/endeffector -(20,0,23)
+
+(base can be easily edited by changing the coordinates of the joints in the fabrik function)
 
 So the code basically use change of axis for the position of the object to project it in the x-z plane while measuring the angle that should be rotated by base angle to attain the situation and applies FABRIK algorithm to configure the positions of joint 0 and 1 in 2D space of x and z and the angles are configured by applying cosine formula 
 
