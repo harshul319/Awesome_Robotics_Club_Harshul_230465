@@ -1,5 +1,12 @@
 # Awesome_Robotics_Club_Harshul_230465
-Summer robotics task
+I have
+Summer robotics task-
+
+TASK-4-> This project provides a hands on project to work on an actual robot which I am really interested in 
+
+DP change-
+![Screenshot (4)](https://github.com/harshul319/Awesome_Robotics_Club_Harshul_230465/assets/153108163/e285fe94-e922-4f24-8194-cabfe60d6592)
+
 
  Bandit over the wire-
  Level 1- ls to veiw folders in the directory and cat readme to access the file readme
