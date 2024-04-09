@@ -36,5 +36,7 @@ Some shortcomings of the code-
 
 
 
-Some examples of code working with different positions of object are given in the python notebook
+Some examples of code working with different positions of object are given in the python notebook-![Screenshot (3)](https://github.com/harshul319/Awesome_Robotics_Club_Harshul_230465/assets/153108163/74c6dd4f-01fa-453d-83a8-26d901594496)
+ons of object are given in the python notebook-
+
 
