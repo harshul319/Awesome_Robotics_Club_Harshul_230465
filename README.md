@@ -36,4 +36,5 @@ Some shortcomings of the code-
 
 
 
-Some examples-
+Some examples of code working with different positions of object are given in the python notebook
+
